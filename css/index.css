@@ -1,5 +1,25 @@
 body {
   font-family: Gill Sans, sans-serif;
-  background-color: salmon;
+  background-color: rgba(0,16,0,0.3);
   text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+.link {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 2.3vmin;
+
+}
+
+#entrance-div {
+  margin-top: 30px;
+  width: 100%;
+  height: calc( 100vh - 0px );
+  background-image: url("../img/zoo_entrance.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
 }
