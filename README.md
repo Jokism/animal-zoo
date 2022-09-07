@@ -1,5 +1,9 @@
-# zoo-starter-code
+# Animal Zoo
 
-This repository is the website starter code for Assignment 1 - Zoo.
+This repository is the website for Assignment 1 - Zoo.
 
-[Website link](https://johnnylaicode.github.io/zoo-starter-code/)
+[Website link](https://jokism.github.io/animal-zoo/)
+
+## Group members
+
+Name: Jerrod Mitchell, Github: Jokism
