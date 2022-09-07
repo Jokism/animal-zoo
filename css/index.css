@@ -1,5 +1,74 @@
 body {
   font-family: Gill Sans, sans-serif;
-  background-color: salmon;
+  background-color: rgba(0,16,0,0.3);
   text-align: center;
+  margin: 0px;
+  padding: 0px;
 }
+
+.link {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 2.3vmin;
+
+}
+
+#entrance-div {
+  margin-top: 30px;
+  width: 100%;
+  height: calc( 100vh - 0px );
+  background-image: url("../img/zoo_entrance.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+
+#polar-bear {
+  font-family: Courier New;
+    background-color: silver;
+    text-align: center;
+}
+
+#koala {
+    font-family: Courier New;
+    background-color: rgba(35,255,50,0.3);
+    text-align: center;
+}
+
+#ferret {
+    font-family: Courier New;
+    background-color: rgba(71,33,7,0.5);
+    text-align: center;
+}
+
+
+#salamander {
+    font-family: Courier New;
+    background-color: rgba(148,150,37,0.5);
+    text-align: center;
+}
+
+#salamander > img {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    max-height: 270px;
+}
+
+#cat {
+    font-family: Courier New;
+    background-color: rgba(153,31,88,0.3);
+    text-align: center;
+}
+
+#cat > img {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    max-height: 270px;
+}
+
